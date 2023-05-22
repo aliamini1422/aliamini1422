@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Gym mobile application<br>🤝 I’m looking for a job<br>🌱 I’m currently learning Ionic <br>
+🔭 I’m currently working on Gym mobile application<br>🤝 I’m looking for a job<br>🌱 I’m currently learning Front-end <br>
 
 
 ## 🌐 Socials:
